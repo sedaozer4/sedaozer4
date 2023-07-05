@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Seda Özer</h1>
-<h3 align="center">Türkiye Hindistan'dan tutkulu bir fullstack geliştiricisi</h3>
+<h3 align="center">Türkiye'den tutkulu bir fullstack geliştiricisi</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=sedaozer4&label=Profile%20views&color=0e75b6&style=flat" alt="sedaozer4" /> </p>
 
