@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba, Ben Seda Özer</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- 📫 How to reach me **seda11475@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
